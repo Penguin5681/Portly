@@ -1,16 +1,13 @@
-# portly
+# Portly
 
-A simple desktop based app to monitor the ports and services.
+A modern Flutter application for monitoring network ports and services in real-time.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Real-time Port Monitoring**: Check if ports are open/closed with live updates
+- **Response Time Tracking**: See how quickly services respond
+- **Common Services Support**: Easily add common services (HTTP, HTTPS, SSH, etc.)
+- **Customizable Refresh Rate**: Set how often to check your services
+- **Search & Filter**: Find specific monitors quickly
+- **Responsive UI**: Works on mobile, tablet, and desktop
+- **Dark Theme**: Easy on the eyes for extended monitoring
