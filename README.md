@@ -11,3 +11,4 @@ A modern Flutter application for monitoring network ports and services in real-t
 - **Search & Filter**: Find specific monitors quickly
 - **Responsive UI**: Works on mobile, tablet, and desktop
 - **Dark Theme**: Easy on the eyes for extended monitoring
+
